@@ -192,6 +192,7 @@ h2#contact:before {
 }
 
 #bio p {
+    font-family: Arial;
     clear: left;
     margin: 40px auto;
     padding: 40px 45px;
