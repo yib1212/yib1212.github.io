@@ -637,11 +637,15 @@ ul#recommends li {
 }
 
 ul#jobs li .details,
-ul#schools li .details,
 ul#project li .details,
 ul#recommends li .details {
     float: left;
     width: 40%
+}
+
+ul#schools li .details {
+    float: left;
+    width: 100%
 }
 
 ul#jobs li p,
