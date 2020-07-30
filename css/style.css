@@ -650,7 +650,7 @@ ul#schools li .details {
 
 ul#jobs li p,
 ul#schools li > p,
-ul#project li > p,
+
 ul#recommends li > p {
     float: right;
     width: 57%;
