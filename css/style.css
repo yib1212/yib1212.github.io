@@ -639,7 +639,7 @@ ul#recommends li {
 ul#jobs li .details,
 ul#recommends li .details {
     float: left;
-    width: 40%
+    width: 100%
 }
 
 ul#project li .details,
